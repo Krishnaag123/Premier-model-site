@@ -1033,11 +1033,11 @@ body {
 
 
 #page8{
-    height: 20%;
+    height: 25%;
 }
 
 #footer{
-    height: 60%;
+    height: 65%;
 }
 #footer1{
     width: 42%;
@@ -1049,14 +1049,10 @@ body {
     font-weight: 550;
 } 
 #footer1 h1::after {
-    font-size: 1.2vh;
-    top: -6%;
-    right: -1%;
+    display: none;
 }
 #footer1 h1::before {
-    font-size: 0.9vh;
-    bottom: 75%;
-    right: 10%;
+    display: none;
 }
 #footer1 h2{
     margin-top: 2vh;
